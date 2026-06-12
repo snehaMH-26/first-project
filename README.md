@@ -1,2 +1,3 @@
 # first-project
-This is my First git Repository.
+This is my First Git Repository.
+Author - Sneha
